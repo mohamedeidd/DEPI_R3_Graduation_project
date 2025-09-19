@@ -1,66 +1,48 @@
 # DEPI_R3_Graduation_project
-📌 Project Overview
+## **📌 Project Overview**
+**👕 Multi-Modal Clothing Classifier**
 
 Fashion styles can be subjective, but by combining visual features from clothing images with textual features like product descriptions, we can build a multi-modal model that classifies clothing styles more accurately than single-input models.
 
-🎯 Objectives
+# **🎯 Objectives**
 
-🖼️ Use CNNs for image features.
+- 🖼️ Use CNNs for image features.
 
-📝 Use Transformers/LSTMs for text features.
+- 📝 Use Transformers for text features.
 
-🔗 Combine both to create a multi-modal classifier.
+- 🔗 Combine both to create a multi-modal classifier.
 
-📈 Evaluate model performance on fashion datasets.
+- 📈 Evaluate model performance on fashion datasets.
 
-🛠️ Tech Stack
-Component	Technology
-Language	Python
-Frameworks	TensorFlow / PyTorch
-Image Handling	OpenCV, PIL
-Text Processing	NLTK, HuggingFace Transformers
-Visualization	Matplotlib, Seaborn
-Data Handling	NumPy, Pandas
+# **🛠️ Tech Stack**
+
+**Language**: Python
+
+**Deep Learning**: TensorFlow 
+
+**Image Processing** : OpenCV, PIL
+
+**Text Processing** : NLTK, HuggingFace Transformers
+
+**Visualization** : Matplotlib, Seaborn
+
+**Data Handling** : NumPy, Pandas
+
+**Machine Learning** : sci-kit learn
+
 📂 Project Structure
-├── data/                # Dataset files (images + text)
+├── data/                # Dataset (images + text)
 ├── notebooks/           # Jupyter notebooks for experiments
-├── src/                 # Source code for model, preprocessing, etc.
 ├── models/              # Saved trained models
-├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 
-🚀 How to Run
+# **📊 Expected Results**
 
-Clone the repository:
+Better accuracy using multi-modal inputs rather than single-input models.
 
-git clone https://github.com/your-username/multi-modal-clothing-classifier.git
-cd multi-modal-clothing-classifier
+Visualizations like training curves, confusion matrix, and sample predictions.
 
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run training:
-
-python src/train.py
-
-
-Evaluate the model:
-
-python src/evaluate.py
-
-📊 Expected Results
-
-📈 Higher accuracy using multi-modal input vs single input.
-
-🖼️ Visualizations: Training curves, confusion matrix, sample predictions.
-
-Example Output:
-
-
-👥 Team Members
+# **👥 Team Members**
 
 Mohamed Eid
 
@@ -70,12 +52,9 @@ Mohamed Eid
 
 [Team Member 4 Name]
 
-Instructor: Aya Hesham
+Instructor: *Aya Hesham*
 
-📜 License
 
-This project is licensed under the MIT License.
+# **✨ Acknowledgments**
 
-✨ Acknowledgments
-
-Special thanks to Aya Hesham for guidance and support throughout this project.
+Special thanks to *Aya Hesham* for supervision and guidance throughout the whole learning process.
