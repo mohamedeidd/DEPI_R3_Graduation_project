@@ -31,10 +31,10 @@ Fashion styles can be subjective, but by combining visual features from clothing
 **Machine Learning** : sci-kit learn
 
 # **📂 Project Structure**
-├── data/                # Dataset (images + text)
-├── notebooks/           # Jupyter notebooks for experiments
-├── models/              # Saved trained models
-└── README.md            # Project documentation
+-├── data/                # Dataset (images + text)
+-├── notebooks/           # Jupyter notebooks for experiments
+-├── models/              # Saved trained models
+-└── README.md            # Project documentation
 
 # **📊 Expected Results**
 
