@@ -30,7 +30,7 @@ Fashion styles can be subjective, but by combining visual features from clothing
 
 **Machine Learning** : sci-kit learn
 
-📂 Project Structure
+# **📂 Project Structure**
 ├── data/                # Dataset (images + text)
 ├── notebooks/           # Jupyter notebooks for experiments
 ├── models/              # Saved trained models
@@ -44,13 +44,12 @@ Visualizations like training curves, confusion matrix, and sample predictions.
 
 # **👥 Team Members**
 
-Mohamed Eid
-
-[Team Member 2 Name]
-
-[Team Member 3 Name]
-
-[Team Member 4 Name]
+- Mohamed Eid
+- Sohaib Mashaly
+- Ali EL-Gamal
+- Abanoub Nakhla
+- Samir Nabil
+- Sabry Wael
 
 Instructor: *Aya Hesham*
 
